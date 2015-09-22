@@ -1,7 +1,7 @@
 Sem 1 Material
 ======
 
-** Courses **
+**Courses**
 
 - Logic and Knowledge Representation
 - Optimization
